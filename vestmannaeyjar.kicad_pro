@@ -55,7 +55,24 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "courtyards_overlap|53930001|96942501|0f741b6d-7dd1-4c46-8fd4-7fe2b9175ec7|993a9069-e6a2-4d38-9721-053c914f367b",
+        "courtyards_overlap|67930001|96942501|57831697-d4e6-4a05-a707-a8d76e07c84d|9db24195-50ba-4227-b0b6-d5e4285a59f1",
+        "courtyards_overlap|74430481|52270001|7d8fff60-8f86-4ef7-9e18-923a546333a3|e69d5b82-12a4-498a-8ebe-d1089e1f3207",
+        "courtyards_overlap|74430481|67270001|3412407e-113c-4e23-bca7-81d19618558c|7e247689-939a-4f66-848e-7c1c342703c9",
+        "courtyards_overlap|84430001|96690001|a5e795d4-a06c-4b11-b267-8305986f7da1|d5f1ee6f-648a-4328-aa16-c7e3a9844b00",
+        "courtyards_overlap|96430481|52270001|3b4b523d-59db-42a1-94b5-5fbdd50cbcdf|dd5c55bd-4756-41c6-a1e2-58c69f0c4c62",
+        "courtyards_overlap|96430481|67270001|75896b48-854e-42de-9a51-a87f29378f9c|d9059586-c48e-4723-b58f-d3187e2364f7",
+        "courtyards_overlap|98430000|96690001|1aa0ed50-d50d-47fd-aa20-a431dcd15b41|8e27a3f0-a8d1-40f5-acf4-44010d944ffd",
+        "zones_intersect|93000000|58800000|a8d04cd1-5d90-431b-87f6-5e787bc168d2|8a80f9a6-35b6-4540-86c7-f39b39959daa",
+        "zones_intersect|93000000|58825000|c4d341c0-f854-44aa-ba65-94e99d18b92a|8a80f9a6-35b6-4540-86c7-f39b39959daa",
+        "zones_intersect|93000372|58799708|a8d04cd1-5d90-431b-87f6-5e787bc168d2|8a80f9a6-35b6-4540-86c7-f39b39959daa",
+        "zones_intersect|93025000|57125000|c4d341c0-f854-44aa-ba65-94e99d18b92a|8a80f9a6-35b6-4540-86c7-f39b39959daa",
+        "zones_intersect|93048673|57145122|a8d04cd1-5d90-431b-87f6-5e787bc168d2|8a80f9a6-35b6-4540-86c7-f39b39959daa",
+        "zones_intersect|93050000|57100000|a8d04cd1-5d90-431b-87f6-5e787bc168d2|8a80f9a6-35b6-4540-86c7-f39b39959daa",
+        "zones_intersect|94025000|57975000|c4d341c0-f854-44aa-ba65-94e99d18b92a|8a80f9a6-35b6-4540-86c7-f39b39959daa",
+        "zones_intersect|94050000|57975000|a8d04cd1-5d90-431b-87f6-5e787bc168d2|8a80f9a6-35b6-4540-86c7-f39b39959daa"
+      ],
       "meta": {
         "version": 2
       },
